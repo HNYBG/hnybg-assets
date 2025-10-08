@@ -1,0 +1,20 @@
+{
+    "name": "HONEY BADGER Official List",
+    "timestamp": "2025-10-08T00:00:00Z",
+    "version": { "major": 0, "minor": 1, "patch": 0 },
+    "keywords": ["base", "erc20", "honey-badger", "hnybg"],
+    "tokens": [
+      {
+        "chainId": 8453,
+        "address": "0x6EdA5E0EDCc40bC8F492eeF7f270880Ea9362dB6",
+        "name": "HONEY BADGER",
+        "symbol": "HNYBG",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/HNYBG/hnybg-assets/main/logo-256.png",
+        "extensions": {
+          "website": "https://hnybg.io"
+        }
+      }
+    ]
+  }
+  
